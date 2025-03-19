@@ -1,1 +1,0 @@
-Use a binary classification dataset (e.g., Titanic Survival or Spam Detection) Implement Logistic Regression using sklearn Evaluate model performance using confusion matrix & F1-score Plot the ROC Curve
