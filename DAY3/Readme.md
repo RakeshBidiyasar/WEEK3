@@ -1,1 +1,1 @@
-
+Implement XGBoost on a dataset (e.g., Loan Prediction or Churn Prediction) Compare performance with Decision Trees / Random Forest Plot feature importance to see which factors affect predictions the most
